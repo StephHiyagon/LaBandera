@@ -8,5 +8,27 @@
   margin:20px auto;
   width:300px;
   height:1200px;
-  border:1px solid blue;
+}
+
+.bandera1{
+  width:528px;
+  height:300px;
+  border:1px solid black;
+}
+
+.franja{
+  width:132px;
+  height: 100px;
+}
+
+.amarillo{
+  background-color:yellow;
+}
+
+.azul{
+  background-color:blue;
+}
+
+.roja{
+  background-color:red;
 }
